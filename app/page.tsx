@@ -126,9 +126,7 @@ export default function Home() {
         </div>
         <ul className="flex items-center gap-3 ">
           <li>
-            {/* <Camera color="red" size={48} /> */}
-            <Button className="bg-slate-600  ">
-            </Button>
+           
           </li>
         </ul>
       </nav>
